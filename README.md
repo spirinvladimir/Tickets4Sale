@@ -12,4 +12,4 @@ open localhost:4000
 
 
 ## Thanks
-[Zach Oakes](https://sekao.net/) for a clould IDE with hosting [Nightcoders.net](http://nightcoders.net/)
+To [Zach Oakes](https://sekao.net/) for provide a clould IDE with hosting - [Nightcoders.net](http://nightcoders.net/)
